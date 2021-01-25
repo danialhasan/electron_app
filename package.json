@@ -1,0 +1,17 @@
+{
+  "name": "dh_app",
+  "version": "1.0.0",
+  "description": "This is Danial's custom electron app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Danial Hasan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1",
+    "electron-reloader": "^1.2.0"
+  }
+}
